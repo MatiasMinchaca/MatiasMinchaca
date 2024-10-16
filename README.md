@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 💼 I am a passionate `Fullstack Developer` with a focus on creating dynamic web applications.
+- 💼 I am a passionate `Web Developer` with a focus on creating dynamic web applications.
 - 💻 I am currently studying `Web3` and decentralized technologies.
 - 🌱 Always learning and growing in areas like backend systems, frontend technologies, and cloud-based services.
 - 🌎 You can find more about my journey on [MY WEBSITE](https://matias-minchaca.vercel.app).
