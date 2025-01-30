@@ -31,28 +31,28 @@ function matiasMinchacaSkills() {
     cloud: ["AWS", "Docker"],
     studying: ["Web3", "Blockchain"],
     softSkills: [
-      { name: "Paciente", description: "Mantengo la calma en cada línea de código" },
-      { name: "Creativo", description: "Transformo problemas en soluciones elegantes" },
-      { name: "Ingenioso", description: "Siempre tengo un truco bajo la manga para nuevos retos" },
-      { name: "Autodidacta", description: "El aprendizaje continuo es mi superpoder" },
-      { name: "Responsable", description: "Los plazos son desafíos que disfruto superar" },
-      { name: "Resolutivo", description: "No hay error que no pueda debuggear" }
+      { name: "Patient", description: "I stay calm with every line of code" },
+      { name: "Creative", description: "I turn problems into elegant solutions" },
+      { name: "Resourceful", description: "I always have a trick up my sleeve for new challenges" },
+      { name: "Self-taught", description: "Continuous learning is my superpower" },
+      { name: "Responsible", description: "Deadlines are challenges I enjoy overcoming" },
+      { name: "Problem-solver", description: "There is no bug I can't debug" }
     ]
   };
 
-  console.log("Bienvenido a mi mundo tech, donde el código cobra vida:");
-  console.log("🔧 Skills en acción...");
+  console.log("Welcome to my tech world, where code comes to life:");
+  console.log("🔧 Skills in action...");
   
   Object.keys(skills).forEach(category => {
     console.log(`🌟 ${category.toUpperCase()}: ${skills[category].map(skill => 
       typeof skill === "string" ? skill : `${skill.name} - ${skill.description}`).join(", ")}`);
   });
 
-  return "Y así, ¡seguimos creando, aprendiendo y resolviendo!";
+  return "And so, we keep creating, learning, and solving!";
 }
 
 matiasMinchacaSkills();
-```
+
 
 ## 🛠️ My Stats
 <!--- stats & Trophy (start) -->
